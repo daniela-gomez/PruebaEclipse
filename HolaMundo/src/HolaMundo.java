@@ -17,6 +17,8 @@ public class HolaMundo {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Hola mundo mi primer ejecutable desde Eclipse");
+		System.out.println("Me llamo Daniela Gómez");
+		
 
 	}
 
